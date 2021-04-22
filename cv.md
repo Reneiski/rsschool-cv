@@ -4,3 +4,5 @@
 4. *I learning SWIFT*
 5. *-*
 6. *-*
+7. *Belarusian Uniwersity of Transport, construction engineer*
+8. *A2*
